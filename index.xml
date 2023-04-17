@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhibin&#39;s Site</title>
+    <link>https://zhi-bin-yang.github.io/</link>
+    <description>Recent content on Zhibin&#39;s Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 16 Apr 2023 19:35:28 -0700</lastBuildDate><atom:link href="https://zhi-bin-yang.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>https://zhi-bin-yang.github.io/contact/</link>
+      <pubDate>Sun, 16 Apr 2023 20:18:52 -0700</pubDate>
+      
+      <guid>https://zhi-bin-yang.github.io/contact/</guid>
+      <description> E-Mail: zhibinyang@proton.me LinkedIn: https://www.linkedin.com/in/zhibin-yang </description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://zhi-bin-yang.github.io/about/</link>
+      <pubDate>Sun, 16 Apr 2023 19:45:40 -0700</pubDate>
+      
+      <guid>https://zhi-bin-yang.github.io/about/</guid>
+      <description>Just some kid.</description>
+    </item>
+    
+    <item>
+      <title>Test</title>
+      <link>https://zhi-bin-yang.github.io/posts/test/test/</link>
+      <pubDate>Sun, 16 Apr 2023 19:35:28 -0700</pubDate>
+      
+      <guid>https://zhi-bin-yang.github.io/posts/test/test/</guid>
+      <description>test test test what what</description>
+    </item>
+    
+  </channel>
+</rss>

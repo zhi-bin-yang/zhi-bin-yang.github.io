@@ -1,0 +1,32 @@
+baseURL = 'https://zhi-bin-yang.github.io/'
+languageCode = 'en-us'
+title = "Zhibin's Site"
+theme = "paper"
+
+enableGitInfo = true
+enableRobotsTXT = true
+
+[minify]
+disableXML = true
+minifyOutput = true
+
+[params]
+color = 'linen'
+
+github = 'zhi-bin-yang'
+rss = true
+
+name = 'Zhibin Yang'
+bio = 'hello hello'
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
+    weight = 20
